@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="MySon.jpeg"/>
+<img src="MySon.jpeg" width="300px" height="250px"/>
 
 I'm Lotus ~ ~
