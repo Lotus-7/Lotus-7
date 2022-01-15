@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lotus ~ ~ 👋
 
 <!--
 **Lotus-7/Lotus-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 <img src="MySon.jpeg" width="310px" height="240px"/>
 
-I'm Lotus ~ ~
+#### Courses
+
+- [MySQL 数据库进阶实战](https://www.lanqiao.cn/courses/2404)
+- [Beautiful Soup 基础入门](https://www.lanqiao.cn/courses/2184)
+- [Python 计量经济学初阶教程](https://www.lanqiao.cn/courses/2794)
