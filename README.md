@@ -1,4 +1,7 @@
 ### Hi there, I'm Lotus ~ ~ 👋
+<video controls width="250">
+   <source src="lotus.mp4" type="video/webm">
+</video>
 
 <!--
 **Lotus-7/Lotus-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,19 +9,16 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning
+
 -->
 
-<img src="MySon.jpeg" width="310px" height="240px"/>
+📫 How to reach me: Lotus.xiao77@outlook.com
 
-#### Courses
-
-- [MySQL 数据库进阶实战](https://www.lanqiao.cn/courses/2404)
-- [Beautiful Soup 基础入门](https://www.lanqiao.cn/courses/2184)
-- [Python 计量经济学初阶教程](https://www.lanqiao.cn/courses/2794)
